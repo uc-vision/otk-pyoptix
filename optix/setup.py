@@ -76,7 +76,7 @@ class CMakeBuild(build_ext):
 
 
 setup(
-    name='optix',
+    name='otk_pyoptix',
     version='0.0.1',
     author='Keith Morley',
     author_email='kmorley@nvidia.com',
